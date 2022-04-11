@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Xiangrong LI
 - 👀 I’m interested in badminton, skiing, hiking, cycling
 - 🌱 I’m currently learning Li-S battery, 2D material
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ The web carrier my study, life, thought, learing and sharing.
+- 📫 You can find my past in the pages.
 
 <!---
 xlihd/xlihd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
